@@ -1,0 +1,12 @@
+{
+  "name": "esp-api-projects",
+  "version": "1.0.0",
+  "main": "api/data.js",
+  "scripts": {
+    "start": "node api/data.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^9.12.0"
+  }
+}
